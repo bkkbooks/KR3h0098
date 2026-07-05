@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3h0098_001.yaml, hash: 'sha256:9d197dbf19ce883a01e7c1b03f0dadb25ee732649825ae8f6f966da349f66150'}
+  - {seq: 1, filename: KR3h0098_001.yaml, hash: 'sha256:881262b14aa187b5a7a8ac358bb927cb693ab45eaa47a93afd6a31de36372815'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0098_001.markers.yaml, hash: 'sha256:120c50bf3f22eede6e8480ddd19b92d84de80c951c58bc729f960ceebec100ff'}
+  - {seq: 1, role: markers, filename: assets/KR3h0098_001.markers.yaml, hash: 'sha256:fd49f7b694513ee9cc16050ec4252cb3a0fdf65cdef29cf51ca766dcb1b0e12e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 儒棋格一卷
   type: section
   level: 1
-hash: sha256:29bda302b176d4f8fca69a58c0d176547d4383186928584467fb957d2ee2c061
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e62e5b8925d3d34fbacf41663be6413cb30bf3eb3f59f043d3a9548db1a98170
