@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3h0098/v1
 canonical_location: https://kanripo.org/bkk/KR3h0098/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 儒棋格一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3h0098_001.yaml, hash: 'sha256:881262b14aa187b5a7a8ac358bb927cb693ab45eaa47a93afd6a31de36372815'}
+  - {seq: 1, filename: KR3h0098_001.yaml, hash: 'sha256:9d197dbf19ce883a01e7c1b03f0dadb25ee732649825ae8f6f966da349f66150'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0098_001.markers.yaml, hash: 'sha256:fd49f7b694513ee9cc16050ec4252cb3a0fdf65cdef29cf51ca766dcb1b0e12e'}
+  - {seq: 1, role: markers, filename: assets/KR3h0098_001.markers.yaml, hash: 'sha256:044356ef2355e67da428ea254e14c564097cb4d47abaab631c99535638fd210a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 儒棋格一卷
   type: section
   level: 1
-hash: sha256:e62e5b8925d3d34fbacf41663be6413cb30bf3eb3f59f043d3a9548db1a98170
+hash: sha256:a74370c3b8428b4c86b409166098800e8a5547956dfef43cac0e0d19ba5561c1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
